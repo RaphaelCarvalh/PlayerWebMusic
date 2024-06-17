@@ -1,4 +1,4 @@
-# PlayerWebMusic
+![image](https://github.com/RaphaelCarvalh/PlayerWebMusic/assets/162733267/c242727c-45ab-4719-aa77-4b734a220b1c)# PlayerWebMusic
 
 # MeuApp de Música com Angular
 
@@ -45,14 +45,14 @@ Durante o desenvolvimento deste aplicativo usando Angular, enfrentamos alguns de
 Este projeto está licenciado sob a [Licença]. Projeto feito de forma acadêmica, não é recomendado o uso. Consulte o arquivo `LICENSE` para obter mais detalhes.
 <div align="center">
   <h4>Área de login,</h4>
-  <img src="https://cdn.discordapp.com/attachments/1177172733554065428/1229435121027907655/image.png?ex=662fabae&is=661d36ae&hm=01cdf3b861927493f5effdcc6d3fb5bd3c4b33856241d45e6ce8233dd50298f2&" width="620">
+  <img src="https://cdn.discordapp.com/attachments/1177172733554065428/1229429240538337290/image.png?ex=66719134&is=66703fb4&hm=7eec855cc85b52c31de24c5d0c569f481e86e0aa200f649e75963bb4280973a0&" width="620">
 </div>
 <div align="center">
   <h4>Aréa de bibliotecas, com inteface intuitiva,</h4>
-  <img src="https://cdn.discordapp.com/attachments/1177172733554065428/1229429365280997427/image.png?ex=662fa652&is=661d3152&hm=c5456272102d9760536d847a9e561bc9cc310b7177cb5e35580bc9646a6a3a98&" width="620">
+  <img src="https://cdn.discordapp.com/attachments/1177172733554065428/1229429365280997427/image.png?ex=66719152&is=66703fd2&hm=c9afdc4d4dcfea4795cca0b65a6e4096a696f57bae8cff5f71e786a709c423bf&" width="620">
 </div>
 <div align="center">
   <h4>Player suave e fluido com design minimalista!!</h4>
-  <img src="https://cdn.discordapp.com/attachments/1177172733554065428/1229434921999798392/image.png?ex=662fab7f&is=661d367f&hm=a1b45ee8dd8e4af29fa8c2831977f59beac02e2374dc57cb0ce68b56a9d9271e&" width="620">
+  <img src="https://cdn.discordapp.com/attachments/1177172733554065428/1229434921999798392/image.png?ex=6671967f&is=667044ff&hm=4b0ea0aea406dc56d66f0c8e2a8d8c06a440f07be2f4c56e05b7e8541f74ae56&" width="620">
 </div>
 
