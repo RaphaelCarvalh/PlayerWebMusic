@@ -45,14 +45,14 @@ Durante o desenvolvimento deste aplicativo usando Angular, enfrentamos alguns de
 Este projeto está licenciado sob a [Licença]. Projeto feito de forma acadêmica, não é recomendado o uso. Consulte o arquivo `LICENSE` para obter mais detalhes.
 <div align="center">
   <h4>Área de login,</h4>
-  <img src="https://cdn.discordapp.com/attachments/1177172733554065428/1229429240538337290/image.png?ex=66719134&is=66703fb4&hm=7eec855cc85b52c31de24c5d0c569f481e86e0aa200f649e75963bb4280973a0&" width="620">
+  <img src="https://lh3.googleusercontent.com/d/12w08JjKHpGKZRJwOUnfTDsux78OwKo1q" width="620">
 </div>
 <div align="center">
   <h4>Aréa de bibliotecas, com inteface intuitiva,</h4>
-  <img src="https://cdn.discordapp.com/attachments/1177172733554065428/1229429365280997427/image.png?ex=66719152&is=66703fd2&hm=c9afdc4d4dcfea4795cca0b65a6e4096a696f57bae8cff5f71e786a709c423bf&" width="620">
+  <img src="https://lh3.googleusercontent.com/d/1vGr7-kBLhzPTpSLDSuWnAuH7sk9hv32R" width="620">
 </div>
 <div align="center">
   <h4>Player suave e fluido com design minimalista!!</h4>
-  <img src="https://cdn.discordapp.com/attachments/1177172733554065428/1229434921999798392/image.png?ex=6671967f&is=667044ff&hm=4b0ea0aea406dc56d66f0c8e2a8d8c06a440f07be2f4c56e05b7e8541f74ae56&" width="620">
+  <img src="https://lh3.googleusercontent.com/d/1waZHTlpmjXwZBeDQypyi5muTaDBhfadq" width="620">
 </div>
 
